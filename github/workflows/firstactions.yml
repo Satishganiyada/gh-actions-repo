@@ -15,3 +15,5 @@ jobs:
 
       - name: Run Hello World
         run: echo "Hello World from GitHub Actions!"
+      - name: Read files
+        run: ls
